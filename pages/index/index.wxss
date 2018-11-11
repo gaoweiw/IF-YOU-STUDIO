@@ -1,0 +1,8 @@
+/**index.wxss**/
+/**
+*banner
+*/
+.slide-image{
+  width: 100%;
+  display: inline;
+}
